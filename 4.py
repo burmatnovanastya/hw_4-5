@@ -1,4 +1,4 @@
-years = int(input())
+years = int(input('Введите года: '))
 days = (60 * 8) / 5
 count = years * 365 * days
 print(count)
@@ -6,4 +6,4 @@ print(count)
 days = (60 * 8) / 5
 exhibits = 2800000
 days = exhibits / days
-print(days)
+print(days) 
